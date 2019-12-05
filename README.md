@@ -1,2 +1,1 @@
-# tests_3rd-task
-3rd task for the "Unit-test" module. Netology course
+[![Build status](https://ci.appveyor.com/api/projects/status/co91etxunuq48o57/branch/master?svg=true)](https://ci.appveyor.com/project/zhukovvlad/tests-3rd-task/branch/master)
