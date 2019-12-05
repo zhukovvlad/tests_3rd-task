@@ -1,0 +1,25 @@
+{
+  "name": "tests_3rd-task",
+  "version": "1.0.0",
+  "description": "3rd task for the 'Unit-test' module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhukovvlad/tests_3rd-task.git"
+  },
+  "author": "zhukovvlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhukovvlad/tests_3rd-task/issues"
+  },
+  "homepage": "https://github.com/zhukovvlad/tests_3rd-task#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.18.2"
+  }
+}
